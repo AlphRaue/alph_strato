@@ -1,0 +1,9 @@
+InsOManagerSetupMPU2007			MehrPlatzUpdate (Serverinstallation)
+InsOManagerSetupNet2007			Netzanbindung der Klientrechner
+InsOManagerU2007			Updater der Einzelplatzversion
+InsOManagerSP6.2.1_2007			ServicePack zur Behebung kleiner Fehler
+InsOManagerSP6.3.1_2007_Vorlagen	Vorlagenanpassung zum SP 6.3.1
+InsOManagerSP6.3.3_2007			ServicePack zur Anpassung an Änderungen IO
+InsOManagerSP6.4_2007			Einarbeitung der neuen Pfändungstabelle 2015
+InsOManagerSP6.4_2007_Vorlagen_2007	Formularanpassung für SP 6.4
+InsOManagerSP6.5_2007			ServicePack zur Behebung kleiner Fehler

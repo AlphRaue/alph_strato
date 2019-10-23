@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DSO_Wartezeiten.exe" version="1.0.5.20" publicKeyToken="738025ae09d98ee7" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DSO_Wartezeiten" version="1.0.5.19" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DSO_Wartezeiten.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DSO_Wartezeiten.exe" size="77752">
+      <assemblyIdentity name="DSO_Wartezeiten" version="1.0.5.19" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LXmy4xursBLtQPC4prm8A43fNAknEeQYgIYLQziwcYQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DSO_Wartezeiten.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="logo.ico" size="23462">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p2el3MS19MGkkc94/PR5AoQ+aodjyXLckv3DrJsHZs0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MARUTUKKU\Alph" issuerKeyHash="eedb325e522fb1923ebdb07bcec154053a1c1268" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>0c4ulb/r8r+sA1r4lvNKXjFghe50Aj0Gr8rpCOYI3vI=</DigestValue></Reference></SignedInfo><SignatureValue>bYCPjYdtWKqhF82uJisVUDdT/Q2mY6yFR7s2SKEDzgfrctOjPiEMfA03qP4dRZFCItyrRIFD9C3ddXUU1QZjrraqN/RpJ94F+SuMScTG4aAOdFF2TpEZ0kq+Ij3aODDP7K0NcGiwTCHi8hm+yTs9161DLfvXitt9P2DIIIqRe2k=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>urwxzo5csatTm32GcGkV1hE4hsDzwfwbYphdBRLb30KhGIVY9/FrRE6FbQ+VboUN0LWHvHom8LvoOUwIL3yX9WsxI4tLyznw+t2ZeW8NAGzZ4e66Upp1JkVvkvMvI+fdJ5me8fxQ7mL7WThQDMhTP0OjWqUGcZl11NuxbZeyq8k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f2de08e608e9caaf063d0274ee8560315e4af396f85a03acbff2ebbf952eced1" Description="" Url=""><as:assemblyIdentity name="DSO_Wartezeiten.exe" version="1.0.5.20" publicKeyToken="738025ae09d98ee7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MARUTUKKU\Alph</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ngUKUMr8cRoG5mF9TY+03I8znd8jNbaRvIOJbbM7W/g=</DigestValue></Reference></SignedInfo><SignatureValue>ffTnDchEpIszyYnIjgkMPPufR/+5N/Rw9HBHOJct2cG46IGUNDO4hVTY9cgLARb7VhGTHIn2/2fzAFcc/jOQqGwPTe7zGv8znGkaz2cETi+WXNq9rvsdCqNsTlXg7KxCaszVXza88nBlstCqE8PqkPrGGeQOOUxXMwyL8ftAGZk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>urwxzo5csatTm32GcGkV1hE4hsDzwfwbYphdBRLb30KhGIVY9/FrRE6FbQ+VboUN0LWHvHom8LvoOUwIL3yX9WsxI4tLyznw+t2ZeW8NAGzZ4e66Upp1JkVvkvMvI+fdJ5me8fxQ7mL7WThQDMhTP0OjWqUGcZl11NuxbZeyq8k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQLi8IgNnRRb9Ggzfkc4KSoTANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwATQBBAFIAVQBUAFUASwBLAFUAXABBAGwAcABoMB4XDTE1MDkwODE1MjIyM1oXDTE2MDkwNzIxMjIyM1owJzElMCMGA1UEAx4cAE0AQQBSAFUAVABVAEsASwBVAFwAQQBsAHAAaDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAurwxzo5csatTm32GcGkV1hE4hsDzwfwbYphdBRLb30KhGIVY9/FrRE6FbQ+VboUN0LWHvHom8LvoOUwIL3yX9WsxI4tLyznw+t2ZeW8NAGzZ4e66Upp1JkVvkvMvI+fdJ5me8fxQ7mL7WThQDMhTP0OjWqUGcZl11NuxbZeyq8kCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAwSqFOGNMXBQanrQK3JFXpcOGjVWei7jS0cqDWOVM0DoF/624FdvGwlhARxL4MoIgN/y/4Oc3cjv+jXMJVEYhWtlyBpI5QEs3QOel4zC0s/i3BCvxInANdNjuTNC5bxIkLZJd8IAjUlKPzrZqbzyiW9F592z3Q1exbv9ys8aZZUQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
