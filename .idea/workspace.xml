@@ -1,7 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93d170f5-eeb4-42ee-86de-1fbab15bf59c" name="Default Changelist" comment="" />
+    <list default="true" id="93d170f5-eeb4-42ee-86de-1fbab15bf59c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/BWGL_2018.03.08_15h13m49s_002_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/Bild1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/Bild2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/Bild3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/Bild4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/Bild5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Alph und Nita.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Cori mit Adrian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Ein Adrian.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Franzi und Vitali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Franzi wird 20.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Franzi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Game of thrones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Nita und Anton 2019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Nita und Mann.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Sarah geht zu Freiwild.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Sarah heiratet 8.2018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Sarah mit Mann Sarah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/Vivien 2016 und 2018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/down/anisella/anita und anton 10.18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/new_site_2020/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/new_site_2020/php/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/new_site_2020/sass/.sass-cache/38c96e2b823854da1109ea87cbee8287a6b2a41f/basis.sassc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/new_site_2020/sass/.sass-cache/4294bad081b7575102fe57266e508a166b3419b5/basis.sassc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/new_site_2020/sass/basis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/new_site_2020/sass/basis.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/new_site_2020/sass/basis.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/AI Bogenproblem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/AI Bogenproblem_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/AI Einst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/AndroidG2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/AranankA_Snap_2014.09.29_21h47m16s_004_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/AranankA_Snap_2014.10.07_17h33m56s_003.1_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/AranankA_Snap_2014.10.09_08h24m25s_001_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/BI_1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/BWGL_2017.11.21_14h13m32s_001_PSD-Tutorials-de - Downloadmanager Inhaltsverzeichnis - Mozilla Firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/BWGL_2017.11.21_14h52m17s_002_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/BWGL_2017.11.21_14h57m46s_003_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/BWGL_2017.11.25_19h53m42s_001_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/BWGL_2018.03.20_13h16m39s_002_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/BWGL_2018.03.20_15h00m59s_003_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2013.11.30_12h47m45s_001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2013.11.30_12h48m03s_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2013.12.03_23h58m35s_002.wmv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2014.01.04_03h00m53s_001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2014.01.04_03h01m52s_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2014.01.08_17h38m50s_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2014.01.08_20h53m26s_004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2014.01.08_21h02m02s_005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2014.01.08_21h55m01s_006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/Snap_2014.01.09_03h22m44s_007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Boardsachen/ping.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/CC will nicht1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/DA_Raue_vor.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/DW_nerv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Dexpotproblem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Excelabfrage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Excelabfrage2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Excelabfrage3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/LHF Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/LR_menue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Lighty_3D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/OS im Vergleich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/SamsTab4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Schnellwahl 1 Vorher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Schnellwahl 2 Auswahl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Schnellwahl 3 Nachher.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/Snap_2014.06.04_21h28m26s_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/ae_startfehler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/angeboten.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/bild_vb1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/erwartet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/exception.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iPhone5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/Bahamut1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/Group evil2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/Money.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/Uumleitung.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/a_plain111.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/amera.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ani_hirsch.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ani_knutsch.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ani_ommehau.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ani_pegasus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ani_runing_dog.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ani_tonneklatsch.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/arananka.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/atgross.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/atklein.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/avatar19513_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/b_wink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/baa_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer-2-a-small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer-2-b-b.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer-2-b-w.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer-2a-b-small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer-2a-b.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer-2a-w.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer-2a.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/beer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/biohazard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/c_laugh.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/c_tonguesmile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/cow1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/daumen_runter.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/devilin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/dreh.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/e_jumping_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/emot19_thumbsup.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/emot30_astonishe.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/fantastic_2_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/fantastic_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/fantastic_new.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/finger-flame.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/flechaanim.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/forensignatur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/fresse_halten.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/gold.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/good_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/grosses_bier1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/grosses_bier3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/i_angry_steaming.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ico_konqui.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ico_pentagramm.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ico_pentagramm.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ico_umgangsform.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ico_umleitung.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/jumpbird.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/k_crying.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/k_jumping.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/kleines-bier1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/kleines_bier2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/konqui.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/kopfkratz.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/kotzen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/laughter01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/lizard.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/m_yes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/matrix.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/mommy_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/n_no.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/n_roll_2_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ne_runde1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ne_runde2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/new.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/ooops.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/openhand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/p_03bad_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pegasus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pentagram.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pentagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pentagram1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pentagram27dk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pentagramm.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pentagramm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/pentagramm_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/profil.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/q_dancing_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/q_laughing_roll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/q_laughing_roll_inplace.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/r_champion.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/runing_dog.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/s_thumbup.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/saygod.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/scorpi.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/shy_5new.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_aber_ja.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_astlach.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_basecap.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_beifall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_breitgrins.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_crying.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_daumenh.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_daumenr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_doppeldaumen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_ein_plan.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_forget.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_freustar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_grins.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_handreib.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_heulen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_ja.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_jumpchain.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_jumper.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_kopfkratz.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_lachen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_loesung.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_nein.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_oops.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_rainbow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_rotwerd.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_spucken.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_star.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_staun.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_trauer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_unruhe.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_verschmitz.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_zornig.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_zufrieden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_zum_kugeln.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_gr_zwinker.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_grins.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_kl_01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_kl_02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_kl_03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_kl_04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sm_kl_05.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/smile_71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/smiley_clap.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/smiley_hugesmile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/smiley_laughing.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/starspin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sym_gold.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sym_new.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sym_pfeil_liflechaanim.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sym_pfeil_liflechaanim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sym_pfeil_reflechaanim.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/sym_pfeil_reflechaanim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/t_thumbdown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/teebeutel.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/tongue_2_07.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/trnsprnt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/u_jumps_single.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/v_smilie_rainbow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/verschlafen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/wee_hee2_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/words_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/iconcenter/yes_3_cut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/mybb_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/rand1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/scriptfehler.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uemmsen/strato_vserver.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +276,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/Adobe/Adobe Dreamweaver CC 2019/node/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,6 +302,7 @@
       <updated>1571872086557</updated>
       <workItem from="1571872090159" duration="2250000" />
       <workItem from="1571874348311" duration="1345000" />
+      <workItem from="1571876317680" duration="317000" />
     </task>
     <servers />
   </component>
@@ -85,5 +321,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/funci" />
+    </ignored-roots>
   </component>
 </project>
