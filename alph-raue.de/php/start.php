@@ -10,15 +10,16 @@
     <body>
         <header>
             <h1>Alph Soldner-Raue</h1>
+            <h2>Homepage 2020</h2>
             <nav>
-
+                <h2>Navigation</h2>
             </nav>
         </header>
         <main>
-
+            <h2>Main</h2>
         </main>
         <footer>
-
+            <h2>Footer</h2>
         </footer>
     </body>
 </html>
