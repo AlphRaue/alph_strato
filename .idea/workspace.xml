@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d170f5-eeb4-42ee-86de-1fbab15bf59c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alph-raue.de/sass/.sass-cache/fa12e6fb1a855a0d0b44c4819f6f818ec517315d/basic.sassc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Alph STRATO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Alph STRATO.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alph-raue.de/php/start.php" beforeDir="false" afterPath="$PROJECT_DIR$/alph-raue.de/php/start.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alph-raue.de/sass/basic.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/alph-raue.de/sass/basic.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alph-raue.de/sass/basic.sass" beforeDir="false" afterPath="$PROJECT_DIR$/alph-raue.de/sass/basic.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funci" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +49,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/Adobe/Adobe Dreamweaver CC 2019/node/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,6 +76,7 @@
       <workItem from="1571872090159" duration="2250000" />
       <workItem from="1571874348311" duration="1345000" />
       <workItem from="1571876317680" duration="1259000" />
+      <workItem from="1572034856742" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="Massive Löschungen nach mehrfachen BackUp">
       <created>1571876692328</created>
