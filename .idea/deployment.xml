@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="STRATO Alph" stopOnFirstError="true" overwriteAll="false" deleteMissingItems="true" createEmptyFolders="true" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="STRATO Alph" stopOnFirstError="true" overwriteAll="false" preserveTimestamps="false" createEmptyFolders="true" autoUploadExternalChanges="true">
     <serverData>
       <paths name="Lokaler Horst">
         <serverdata>
@@ -12,7 +12,7 @@
       <paths name="STRATO Alph">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/alph-raue.de" local="$PROJECT_DIR$" web="/alph-raue.de" />
           </mappings>
         </serverdata>
       </paths>

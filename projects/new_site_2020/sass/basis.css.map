@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACF,UAAU,EAAE,KAAK;EACjB,KAAK,EAAE,UAAU;EACjB,WAAW,EAAE,4BAA4B;;AAE3C,EAAE;EACA,KAAK,EAAE,cAAc;;AAEvB,CAAC;EACC,WAAW,EAAE,iBAAiB",
+"sources": ["basis.sass"],
+"names": [],
+"file": "basis.css"
+}
